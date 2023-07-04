@@ -25,4 +25,10 @@
     ~~~
 5.   Ingresar a la URL [localhost](http://localhost:4200)
 
-6.   
+### Instalar Angular Material
+1. Ingresar el siguiente comando
+    ~~~
+      ng add @angular/material
+    ~~~
+    
+2.  
